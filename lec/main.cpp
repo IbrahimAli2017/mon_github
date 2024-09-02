@@ -12,5 +12,6 @@ int main()
         }
         cout<<endl;
     }
+    cout<<"Login Screen"<<endl;
     return 0;
 }
